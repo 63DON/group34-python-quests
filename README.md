@@ -1,11 +1,11 @@
-# Group 34 - Python Quests
+# Group 25 - Python Quests
 
 Our group's solutions for the **Learn Python by Coding** quests. The goal is to build a strong foundation in programming, covering variables, input, math, conditionals, loops, and functions across 6 levels.
 
 ## Repository structure
 
 ```
-group34-python-quests/
+group25-python-quests/
 +-- quests/
 |   +-- quest_05_echoing_cave.py
 |   +-- quest_10_architects_blueprint.py
